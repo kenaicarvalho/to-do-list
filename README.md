@@ -1,14 +1,21 @@
 # Node.js TO-DO List App
 
+  - [About](#about)
+  - [Tech Stack](#tech-stack)
+  - [How To Run](#how-to-run)
+  - [Author](#author)
+
+## About
+
 A simples to-do list application built with Node.js + Express + MongoDB as a tutorial from the OneBitCode Javascript course.
 
-### Technologies Used:
+## Tech Stack
 
-- Node.js;
-- Express;
-- EJS;
-- MongoDB;
-- Mongoose.
+ - Node.js;
+ - Express;
+ - EJS;
+ - Mongoose;
+ - MongoDB;
 
 ### How To Run
 
@@ -20,3 +27,9 @@ Once you have your MongoDB service running you can simply do:
 `$ cd to-do-list`
 
 `$ npm install && npm run dev`
+
+## Author
+
+- Developed by [@kenaicarvalho.](https://www.github.com/kenaicarvalho)
+
+
